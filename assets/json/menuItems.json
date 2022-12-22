@@ -1,0 +1,21 @@
+[{
+        "id": 1,
+        "path": "/",
+        "titleEn": "Main page"
+    },
+    {
+        "id": 2,
+        "path": "aboutPage",
+        "titleEn": "About us"
+    },
+    {
+        "id": 3,
+        "path": "servicesPage",
+        "titleEn": "Services"
+    },
+    {
+        "id": 4,
+        "path": "contactsPage",
+        "titleEn": "Contacts"
+    }
+]

@@ -1,0 +1,25 @@
+{
+    "title": "How we work",
+    "description": "Premium Temizlik Hizmetleri olarak İstanbul da 10 Yılı Aşkın bir süredir Hizmet sunmaktayız.",
+    "articles": [{
+            "id": 1,
+            "title": "Request",
+            "description": "Call or message to us"
+        },
+        {
+            "id": 2,
+            "title": "Date",
+            "description": "We agree on the day of arrival of the master to assess the cost and plan work"
+        },
+        {
+            "id": 3,
+            "title": "Agreement",
+            "description": "Sign a contract with us, and we issue all the documents"
+        },
+        {
+            "id": 4,
+            "title": "Cleaning",
+            "description": "Our specialists qualitatively and with soul create cleanliness in your home. You enjoy the end result"
+        }
+    ]
+}

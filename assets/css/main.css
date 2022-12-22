@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.ant-btn.ant-btn-primary {
+    background-color: #1890ff;
+}
+
+.bg-image {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+
+.img1 {
+    background-image: url(../img/11.jpeg);
+}
+
+.img2 {
+    background-image: url(../img/12.jpeg);
+}
+
+.ant-input {
+    height: 45px;
+}
+
+textarea {
+    height: 175px !important;
+}
+
+.formTitle {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    color: #161616;
+}

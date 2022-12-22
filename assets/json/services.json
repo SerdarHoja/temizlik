@@ -1,0 +1,33 @@
+{
+    "title": "Services",
+    "description": "Premium Temizlik Hizmetleri olarak İstanbul da 10 Yılı Aşkın bir süredir Hizmet sunmaktayız.",
+    "articles": [{
+            "id": 1,
+            "name": "Home cleaning",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
+            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
+            "img": "https://img.freepik.com/free-vector/cleaners-with-cleaning-products-housekeeping-service_18591-52068.jpg?w=1480&t=st=1671627854~exp=1671628454~hmac=6eeb1f96cf15bcbff2d4f712754efe31936fbb443f88c466f1d49477cae0b56d"
+        },
+        {
+            "id": 2,
+            "name": "Office cleaning",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
+            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
+            "img": "https://img.freepik.com/free-vector/cleaners-with-cleaning-products-housekeeping-service_18591-52068.jpg?w=1480&t=st=1671627854~exp=1671628454~hmac=6eeb1f96cf15bcbff2d4f712754efe31936fbb443f88c466f1d49477cae0b56d"
+        },
+        {
+            "id": 3,
+            "name": "Cleaning after repair",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
+            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
+            "img": "https://img.freepik.com/free-vector/cleaners-with-cleaning-products-housekeeping-service_18591-52068.jpg?w=1480&t=st=1671627854~exp=1671628454~hmac=6eeb1f96cf15bcbff2d4f712754efe31936fbb443f88c466f1d49477cae0b56d"
+        },
+        {
+            "id": 4,
+            "name": "Chimical cleaning",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
+            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
+            "img": "https://img.freepik.com/free-vector/cleaners-with-cleaning-products-housekeeping-service_18591-52068.jpg?w=1480&t=st=1671627854~exp=1671628454~hmac=6eeb1f96cf15bcbff2d4f712754efe31936fbb443f88c466f1d49477cae0b56d"
+        }
+    ]
+}
