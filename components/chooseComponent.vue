@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p class="font-sans font-bold text-2xl mb-2 !text-my-gray">
+    <p class="font-bold text-2xl mb-2 !text-my-gray">
       {{ choose.title }}
     </p>
     <div class="flex justify-between">
@@ -10,10 +10,15 @@
           v-for="choise in choose.articles"
           :key="choise.id"
         >
-          <a-card hoverable style="width: 300px">
+          <a-card class="rounded-3xl" hoverable>
             <template #cover>
-              <img :src="choise.img" :alt="choise.name" />
+              <img
+                class="mx-auto w-40 h-40 my-10"
+                :src="`/choose/${choise.path}.png`"
+                :alt="choise.name"
+              />
             </template>
+            <a-divider></a-divider>
             <a-card-meta :title="choise.name">
               <template #description>
                 {{ choise.description }}
@@ -26,7 +31,7 @@
     </div>
     <a-divider></a-divider>
     <div>
-      <p class="font-sans font-bold text-2xl mb-2 !text-my-gray">
+      <p class="font-bold text-2xl mb-2 !text-my-gray">
         {{ steps.title }}
       </p>
       <a-steps :current="current">

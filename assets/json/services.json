@@ -1,33 +1,33 @@
 {
-    "title": "Services",
-    "description": "Premium Temizlik Hizmetleri olarak İstanbul da 10 Yılı Aşkın bir süredir Hizmet sunmaktayız.",
+    "title": "Hizmetlerimiz",
+    "description": "Günlük Temizleme Hizmetleri olarak İstanbul da 10 Yılı Aşkın bir süredir Hizmet sunmaktayız.",
     "articles": [{
             "id": 1,
-            "name": "Home cleaning",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
-            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
-            "img": "https://img.freepik.com/free-vector/cleaners-with-cleaning-products-housekeeping-service_18591-52068.jpg?w=1480&t=st=1671627854~exp=1671628454~hmac=6eeb1f96cf15bcbff2d4f712754efe31936fbb443f88c466f1d49477cae0b56d"
+            "name": "Ev Temizliği",
+            "path": "home",
+            "description": "Evdeki en önemli şey hava durumu. Ve ayrıca temizlik. Düzen ve konforun sağlanması günlük yaşamın ayrılmaz bir parçasıdır. Ancak bunun için her zaman güç, zaman ve en önemlisi kaynak yoktur. Günlük temizleme, siz yeni zirveleri fethederken evinizde rahatlık, temizlik ve düzen yaratmak için tüm bileşenlere sahiptir.",
+            "content": "Evdeki en önemli şey hava durumu. Ve ayrıca temizlik. Düzen ve konforun sağlanması günlük yaşamın ayrılmaz bir parçasıdır. Ancak bunun için her zaman güç, zaman ve en önemlisi kaynak yoktur. Günlük temizleme, siz yeni zirveleri fethederken evinizde rahatlık, temizlik ve düzen yaratmak için tüm bileşenlere sahiptir."
         },
         {
             "id": 2,
-            "name": "Office cleaning",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
-            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
-            "img": "https://img.freepik.com/free-vector/cleaners-with-cleaning-products-housekeeping-service_18591-52068.jpg?w=1480&t=st=1671627854~exp=1671628454~hmac=6eeb1f96cf15bcbff2d4f712754efe31936fbb443f88c466f1d49477cae0b56d"
+            "name": "İşyeri Temizliği",
+            "path": "office",
+            "description": "Deneyimli temizleyiciler, sertifikalı deterjanlar ve profesyonel ekipmanlarla tesislerinizin profesyonel temizliği. İtibarınızın saflığına yardımcı olacağız!",
+            "content": "Deneyimli temizleyiciler, sertifikalı deterjanlar ve profesyonel ekipmanlarla tesislerinizin profesyonel temizliği. İtibarınızın saflığına yardımcı olacağız!"
         },
         {
             "id": 3,
-            "name": "Cleaning after repair",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
-            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
-            "img": "https://img.freepik.com/free-vector/cleaners-with-cleaning-products-housekeeping-service_18591-52068.jpg?w=1480&t=st=1671627854~exp=1671628454~hmac=6eeb1f96cf15bcbff2d4f712754efe31936fbb443f88c466f1d49477cae0b56d"
+            "name": "Yenileme sonrası temizlik",
+            "path": "repair",
+            "description": "Ağır toz, boya ve bina karışımları sağlığınıza zararlı olabileceğinden, onarımdan sonra evi düzgün ve verimli bir şekilde temizlemek kritik önem taşır. Günlük temizleme, sadece temizliği değil, aynı zamanda dairenin güvenliğini de sağlayacaktır.",
+            "content": "Ağır toz, boya ve bina karışımları sağlığınıza zararlı olabileceğinden, onarımdan sonra evi düzgün ve verimli bir şekilde temizlemek kritik önem taşır. Günlük temizleme, sadece temizliği değil, aynı zamanda dairenin güvenliğini de sağlayacaktır."
         },
         {
             "id": 4,
-            "name": "Chimical cleaning",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
-            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
-            "img": "https://img.freepik.com/free-vector/cleaners-with-cleaning-products-housekeeping-service_18591-52068.jpg?w=1480&t=st=1671627854~exp=1671628454~hmac=6eeb1f96cf15bcbff2d4f712754efe31936fbb443f88c466f1d49477cae0b56d"
+            "name": "Kimyasal temizlik",
+            "path": "chimical",
+            "description": "Herhangi bir karmaşıklığın kuru temizlemesi. Döşemeli mobilyalar, halılar ve kilimler",
+            "content": "Herhangi bir karmaşıklığın kuru temizlemesi. Döşemeli mobilyalar, halılar ve kilimler"
         }
     ]
 }

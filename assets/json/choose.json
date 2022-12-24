@@ -1,33 +1,33 @@
 {
-    "title": "Why choose us?",
-    "description": "Premium Temizlik Hizmetleri olarak İstanbul da 10 Yılı Aşkın bir süredir Hizmet sunmaktayız.",
+    "title": "Neden bizi seçmelisiniz?",
+    "description": "Günlük Temizleme Hizmetleri olarak İstanbul da 10 Yılı Aşkın bir süredir Hizmet sunmaktayız.",
     "articles": [{
             "id": 1,
-            "name": "Working experience",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
-            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
-            "img": "@/assets/img/11.jpeg"
+            "name": "Çalışma deneyimi",
+            "path": "experience",
+            "description": "Temizlik hizmetleri pazarında bir yılı aşkın süredir çalışıyoruz. Küçükten çok büyük nesnelere kadar hizmet veriyoruz. Gerçek ve tüzel kişilerle çalışıyoruz.",
+            "content": "Temizlik hizmetleri pazarında bir yılı aşkın süredir çalışıyoruz. Küçükten çok büyük nesnelere kadar hizmet veriyoruz. Gerçek ve tüzel kişilerle çalışıyoruz."
         },
         {
             "id": 2,
-            "name": "Professional cleaners",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
-            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
-            "img": "@/assets/img/12.jpeg"
+            "name": "Deneyimli profesyoneller",
+            "path": "cleaners",
+            "description": "Her temizleyici, çeşitli temizlik türlerinde eğitimli bir uzmandır ve belirli kirleticileri giderme konusunda deneyimlidir. Temizlikçilerimizin temiz bir itibarı vardır ve kötü alışkanlıkları yoktur.",
+            "content": "Her temizleyici, çeşitli temizlik türlerinde eğitimli bir uzmandır ve belirli kirleticileri giderme konusunda deneyimlidir. Temizlikçilerimizin temiz bir itibarı vardır ve kötü alışkanlıkları yoktur."
         },
         {
             "id": 3,
-            "name": "Affordable price",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
-            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
-            "img": "@/assets/img/13.jpeg"
+            "name": "Uygun Fiyat",
+            "path": "price",
+            "description": "Adil bir fiyata profesyonel hizmetler, temizlik maliyetini hesaplamak için alanın boyutu, temizliğin karmaşıklığı, türü, gerekli temizlik sayısı ve aciliyet gibi parametreleri içeren çok net bir şema kullanıyoruz.",
+            "content": "Adil bir fiyata profesyonel hizmetler, temizlik maliyetini hesaplamak için alanın boyutu, temizliğin karmaşıklığı, türü, gerekli temizlik sayısı ve aciliyet gibi parametreleri içeren çok net bir şema kullanıyoruz."
         },
         {
             "id": 4,
-            "name": "Professional tools",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expeditac pariatur?",
-            "content": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo,atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dict sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
-            "img": "../assets/img/11.jpeg"
+            "name": "Profesyonel deterjanlar",
+            "path": "tools",
+            "description": "İşimizde, mülkün zarar görmesini önlemek için binaların profesyonel temizliği ve çeşitli yüzey türleri için pahalı deterjanlar kullanıyoruz. Tüm deterjanlar sertifikalıdır.",
+            "content": "İşimizde, mülkün zarar görmesini önlemek için binaların profesyonel temizliği ve çeşitli yüzey türleri için pahalı deterjanlar kullanıyoruz. Tüm deterjanlar sertifikalıdır."
         }
     ]
 }

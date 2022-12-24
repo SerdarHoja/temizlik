@@ -9,12 +9,12 @@ module.exports = {
         './nuxt.config.{js,ts}',
     ],
     theme: {
-        colors: {
-            'ant-primary': '#1890ff',
-            'my-gray': '#9daeb6',
-            current: 'currentColor',
-        },
         extend: {
+            colors: {
+                'ant-primary': '#1890ff',
+                'my-gray': '#9daeb6',
+                current: 'currentColor',
+            },
             fontFamily: {
                 sans: ['Roboto', ...defaultTheme.fontFamily.sans],
             },

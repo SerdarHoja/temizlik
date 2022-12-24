@@ -1,21 +1,21 @@
 [{
         "id": 1,
         "path": "/",
-        "titleEn": "Main page"
+        "titleEn": "Anasayfa"
     },
     {
         "id": 2,
         "path": "aboutPage",
-        "titleEn": "About us"
+        "titleEn": "Hakkimizda"
     },
     {
         "id": 3,
         "path": "servicesPage",
-        "titleEn": "Services"
+        "titleEn": "Hizmetlerimiz"
     },
     {
         "id": 4,
         "path": "contactsPage",
-        "titleEn": "Contacts"
+        "titleEn": "Iletişim"
     }
 ]

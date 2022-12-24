@@ -1,12 +1,12 @@
 <template>
   <div>
     <a-divider></a-divider>
-    <div class="container mx-auto mt-20 mb-20 lg:px-10 px-3">
+    <div class="container mx-auto mt-20 mb-20 lg:px-10 px-5">
       <div class="mt-10">
-        <h3 class="font-sans font-bold text-4xl mb-2 text-ant-primary">
+        <h3 class="font-bold text-4xl mb-2 text-ant-primary">
           {{ about[0].title }}
         </h3>
-        <p class="font-sans text-xl">
+        <p class="text-xl">
           {{ about[0].description }}
         </p>
         <aboutComponent class="mt-7" />

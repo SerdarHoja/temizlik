@@ -1,7 +1,8 @@
 [{
     "id": 1,
-    "title": "Premium Cleaning Service",
-    "description": "Premium Temizlik Hizmetleri olarak İstanbul da 10 Yılı Aşkın bir süredir Hizmet sunmaktayız.",
-    "content1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo, atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dicta sint ducimus ratione! Aut expedita dicta odit ab error perferendis.",
-    "content2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita debitis culpa, cumque dolor amet nisi. Eligendi fugiat ex quo, atque accusamus mollitia perferendis dicta. Magni magnam commodi numquam maxime dolorum ad error earum est, animi, corrupti odit, fugiat quae dicta sint ducimus ratione! Aut expedita dicta odit ab error perferendis."
+    "title": "Günlük temizleme",
+    "description": "Siz önemli bir şey yaparken biz daireyi, özel evi veya ofisi temizleyeceğiz",
+    "miniContent": "Günlük Temizleme Size profesyonel temizlik hizmeti sunuyor",
+    "content1": "Müşteri Odaklı profesyonel bir ekiple çalışmanın rahatlığını yaşamak ister misiniz ? Her ev ve işyerinin konumu, dekoru ve yaşam tarzı farklılıklar gösteriyor. Bu sebeple biz size göre temizlik anlayışımız ile hizmetinizdeyiz. Temizlik Esnasında yapılmasını istediğiniz işleri bize iletirseniz sizin için gerekli personel teminini ve diğer koşulları ayarlayabiliriz.",
+    "content2": "Onarımdan sonra dairelerin, ofislerin ve diğer binaların temizlenmesi, çalışanlarımızın kapsamlı deneyim kazandığı bir yöndür. Biz için itibarı çok önemlidir. Çalışanlarımız sözlerinden sorumludur, tüm gereklilikleri yerine getirir ve son teslim tarihlerini karşılar. Yorumları dikkatlice okuyor, müşteri isteklerini dikkate alıyor ve önerilerinize yanıt veriyoruz."
 }]

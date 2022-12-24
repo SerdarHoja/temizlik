@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto mt-4 lg:px-10 px-3">
+  <div class="container mx-auto mt-4 lg:px-10 px-5">
     <a-carousel arrows>
       <div
         slot="prevArrow"
@@ -18,10 +18,10 @@
         <a-icon type="right-circle" />
       </div>
       <div>
-        <img src="@/assets/img/11.jpeg" alt="" />
+        <img src="@/assets/img/1.jpeg" alt="" />
       </div>
-      <div><img src="@/assets/img/12.jpeg" alt="" /></div>
-      <div><img src="@/assets/img/13.jpeg" alt="" /></div>
+      <div><img src="@/assets/img/2.jpeg" alt="" /></div>
+      <div><img src="@/assets/img/3.jpeg" alt="" /></div>
     </a-carousel>
   </div>
 </template>
@@ -31,10 +31,14 @@ export default {}
 <style scoped>
 .ant-carousel >>> .slick-slide {
   text-align: center;
-  /* height: 667px; */
+  height: 600px;
   overflow: hidden;
 }
-
+@media only screen and (max-width: 768px) {
+  .ant-carousel >>> .slick-slide {
+    height: 200px;
+  }
+}
 .ant-carousel >>> .custom-slick-arrow {
   width: 25px;
   height: 25px;

@@ -1,16 +1,19 @@
 <template>
   <div>
     <a-divider></a-divider>
-    <div class="container mx-auto mt-4 lg:px-10 px-3">
+    <div class="container mx-auto mt-4 lg:px-10 px-5">
       <div class="flex justify-between items-center">
         <div>
           <nuxt-link to="/">
-            <img class="w-44" src="@/static/logo-1.png" alt="" />
+            <img class="w-44" src="@/static/logo.png" alt="" />
           </nuxt-link>
         </div>
 
-        <div class="contacts flex items-center justify-center">
-          <a href="tel:+99364272511">
+        <div
+          v-if="$device.isDesktop"
+          class="contacts flex items-center justify-center"
+        >
+          <a :href="'tel:' + contacts.phone1">
             <a-button
               class="hover:opacity-70 mr-4"
               size="large"
@@ -19,7 +22,7 @@
               icon="phone"
             />
           </a>
-          <a href="https://wa.me/+99364272511">
+          <a :href="'https://wa.me/' + contacts.phone1">
             <img
               class="hover:opacity-70 w-10"
               src="@/assets/img/whatsapp.svg"
@@ -46,7 +49,7 @@
           <ul class="flex justify-around flex-col">
             <li v-for="menuItem in menuItems" :key="menuItem.id">
               <nuxt-link
-                class="mr-5 lg:text-lg text-sm font-sans font-medium cursor-pointer"
+                class="mr-5 lg:text-lg text-sm font-medium cursor-pointer"
                 :to="menuItem.path"
                 >{{ menuItem.titleEn }}</nuxt-link
               >

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p class="font-sans font-bold text-2xl mb-2 text-my-gray">
+    <p class="font-bold text-2xl mb-2 text-my-gray">
       {{ services.title }}
     </p>
     <div class="flex justify-between">
@@ -10,10 +10,15 @@
           v-for="service in services.articles"
           :key="service.id"
         >
-          <a-card hoverable style="width: 300px">
+          <a-card class="rounded-3xl" hoverable>
             <template #cover>
-              <img :src="service.img" :alt="service.name" />
+              <img
+                class="mx-auto w-40 h-40 my-10"
+                :src="`/services/${service.path}.svg`"
+                :alt="service.name"
+              />
             </template>
+            <a-divider></a-divider>
             <a-card-meta :title="service.name">
               <template #description>
                 {{ service.description }}

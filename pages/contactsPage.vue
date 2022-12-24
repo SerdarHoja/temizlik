@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto mt-20 mb-20 lg:px-10 px-3">
+  <div class="container mx-auto mt-20 mb-20 lg:px-10 px-5">
     <div class="lg:flex justify-between">
       <p class="text lg:w-1/3 text-center text-base font-light mb-5 text-black">
         {{ contacts.address }}
